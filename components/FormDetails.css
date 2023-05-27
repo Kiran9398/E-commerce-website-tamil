@@ -1,0 +1,51 @@
+@media screen and (max-width: 320px) {
+  .formContainer {
+    background-image: linear-gradient(rgb(202, 202, 93), blue);
+    width: 100%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 25px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+    color: white;
+  }
+  .formContainer input {
+    width: 500px;
+    height: 37px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 7px;
+  }
+  .formContainer textarea {
+    width: 500px;
+    border: none;
+    border-radius: 7px;
+  }
+  .formContainer button {
+    margin-top: 10px;
+    width: 500px;
+    background-color: orangered;
+  }
+  .formContainer label {
+    margin-top: 8px;
+  }
+}
+@media screen and(min-width:321px) {
+  .formMainContainer {
+    background-color: rgba(197, 51, 63, 0.37);
+  }
+  .formContainer {
+    background-image: linear-gradient(rgb(202, 202, 93), blue);
+    width: 100%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 25px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+    color: white;
+  }
+}

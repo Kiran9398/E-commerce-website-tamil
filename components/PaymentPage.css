@@ -1,0 +1,247 @@
+@media  screen and (max-width: 320px)  {
+  .paymentpageContainer {
+    overflow: auto;
+  }
+  .paymentOptionContainer {
+    background-color: rgba(216, 208, 236, 0.938) !important;
+    width: 100vw;
+  }
+  .paymentsEnabledInputs {
+    width: 250px;
+    border: none;
+    height: 30px;
+    margin-bottom: 7px;
+    border-radius: 4px;
+  }
+  .upiInputBar {
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: none;
+    height: 30px;
+    width: 250px;
+  }
+  .payableAmount {
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: italic;
+  }
+  .makepaymentBtn {
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 320px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #e47911;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+  }
+}
+@media  screen and (min-width: 375px) {
+  .paymentpageContainer {
+    overflow: auto;
+  }
+  .paymentOptionContainer {
+    background-color: rgba(216, 208, 236, 0.938) !important;
+    width: 100vw;
+  }
+  .paymentsEnabledInputs {
+    width: 250px;
+    border: none;
+    height: 30px;
+    margin-bottom: 7px;
+    border-radius: 4px;
+  }
+  .upiInputBar {
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: none;
+    height: 30px;
+    width: 250px;
+  }
+  .makepaymentBtn {
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 380px;
+    margin-bottom: 20px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #e47911;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+  }
+}
+@media  screen and (min-width: 425px) {
+  .paymentpageContainer {
+    overflow: auto;
+  }
+  .paymentOptionContainer {
+    background-color: rgba(216, 208, 236, 0.938) !important;
+    width: 100vw;
+  }
+  .paymentsEnabledInputs {
+    width: 250px;
+    border: none;
+    height: 30px;
+    margin-bottom: 7px;
+    border-radius: 4px;
+  }
+  .upiInputBar {
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: none;
+    height: 30px;
+    width: 250px;
+  }
+  .makepaymentBtn {
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 425px;
+    margin-bottom: 20px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #e47911;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+  }
+}
+@media  screen and (min-width: 768px) {
+  .paymentpageContainer {
+    overflow: auto;
+  }
+  .paymentOptionContainer {
+    background-color: rgba(216, 208, 236, 0.938) !important;
+    width: 50vw;
+  }
+  .paymentsEnabledInputs {
+    width: 350px;
+    border: none;
+    height: 30px;
+    margin-bottom: 7px;
+    border-radius: 4px;
+  }
+  .upiInputBar {
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: none;
+    height: 30px;
+    width: 250px;
+  }
+  .makepaymentBtn {
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 380px;
+    margin-bottom: 20px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #e47911;
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+  }
+  .payableAmount {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+  }
+  .paymentHeading {
+    text-align: center;
+  }
+}
+
+@media  screen and (min-width: 1024px) {
+    .paymentpageContainer {
+      overflow: auto;
+    }
+    .paymentOptionContainer {
+      background-color: rgba(216, 208, 236, 0.938) !important;
+      width: 50vw;
+    }
+    .paymentsEnabledInputs {
+      width: 350px;
+      border: none;
+      height: 30px;
+      margin-bottom: 7px;
+      border-radius: 4px;
+    }
+    .upiInputBar {
+      margin-bottom: 10px;
+      border-radius: 3px;
+      border: none;
+      height: 30px;
+      width: 250px;
+    }
+    .makepaymentBtn {
+      margin-left: 30%;
+      margin-right: 30%;
+      width: 515px;
+      margin-bottom: 20px;
+      height: 40px;
+      margin-top: 10px;
+      background-color: #e47911;
+      font-size: 18px;
+      border: none;
+      border-radius: 3px;
+    }
+    .payableAmount {
+      display: flex;
+      justify-content: space-between;
+      font-size: 20px;
+      font-weight: 500;
+      font-style: italic;
+    }
+    .paymentHeading {
+      text-align: center;
+    }
+  }
+  @media  screen and (min-width: 1440px) {
+    .paymentpageContainer {
+      overflow: auto;
+    }
+    .paymentOptionContainer {
+      background-color: rgba(216, 208, 236, 0.938) !important;
+      width: 50vw;
+    }
+    .paymentsEnabledInputs {
+      width: 350px;
+      border: none;
+      height: 30px;
+      margin-bottom: 7px;
+      border-radius: 4px;
+    }
+    .upiInputBar {
+      margin-bottom: 10px;
+      border-radius: 3px;
+      border: none;
+      height: 30px;
+      width: 250px;
+    }
+    .makepaymentBtn {
+      margin-left: 30%;
+      margin-right: 30%;
+      width: 50vw;
+      margin-bottom: 20px;
+      height: 40px;
+      margin-top: 10px;
+      background-color: #e47911;
+      font-size: 18px;
+      border: none;
+      border-radius: 3px;
+    }
+    .payableAmount {
+      display: flex;
+      justify-content: space-between;
+      font-size: 20px;
+      font-weight: 500;
+      font-style: italic;
+    }
+    .paymentHeading {
+      text-align: center;
+    }
+  }
